@@ -1,0 +1,80 @@
+{
+"products":[
+  {
+    "name" : "DIGYFOODY",
+    "image" : "./public/images/img1.jpg",
+    "description" : "Open Buffet Meal Label Management System"
+
+  },
+  {
+    "name" : "DIGYBARES",
+    "image" : "./public/images/img2.jpg",
+    "description" : "Contactless QR Code Online Menu and Ordering System"
+  },
+  {
+    "name" : "DIGYLOCK",
+    "image" : "./public/images/img3.jpg",
+    "description" : "Online Electronic Hotel Door Lock Solutions"
+  },
+  {
+    "name" : "DIGYWEB",
+    "image" : "./public/images/img4.jpg",
+    "description" : "Modern Websites"
+  },
+  {
+    "name" : "DIGYINFO",
+    "image" : "./public/images/img5.jpg",
+    "description" : "Contactless Hotel Information Web Application"
+  },
+  {
+    "name" : "DIGYCONTACT",
+    "image" : "./public/images/img6.jpg",
+    "description" : "Contactless Customer Communication"
+  },
+  {
+    "name" : "DIGYPANOROMA",
+    "image" : "./public/images/img7.jpg",
+    "description" : "360 Photo Shoot Google Street View"
+  },
+  {
+    "name" : "DIGYSURVEY",
+    "image" : "./public/images/img8.jpg",
+    "description" : "Online Hotel Survey Solution"
+  },
+  {
+    "name" : "DIGYOPERATION",
+    "image" : "./public/images/img9.jpg",
+    "description" : "Visitor,Vehicle,Manager,Tennis,Football... Registration,Tracking,Reporting"
+  },
+  {
+    "name" : "DIGYDND",
+    "image" : "./public/images/img10.jpg",
+    "description" : "Hotel DND Panels"
+  },
+  {
+    "name" : "DIGYESL",
+    "image" : "./public/images/img11.jpg",
+    "description" : "Electronic Labeling Solution"
+  },
+  {
+    "name" : "DIGYSMART",
+    "image" : "./public/images/img12.jpg",
+    "description" : "Smart Room Solutions"
+  },
+  {
+    "name" : "DIGYCALL",
+    "image" : "./public/images/img13.jpg",
+    "description" : "Wifi and Radio Frequency Waiter Call Centers"
+  },
+  {
+    "name" : "HOTEL-IPTV",
+    "image" : "./public/images/img14.jpg",
+    "description" : "Otel Interactive TV Solutions Nevo TV"
+  },
+  {
+    "name" : "DIGYBARES-ROOM",
+    "image" : "./public/images/img15.jpg",
+    "description" : "Online Room Service Menu and Order"
+  }
+]
+}
